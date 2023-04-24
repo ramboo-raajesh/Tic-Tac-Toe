@@ -1,5 +1,5 @@
 // # Tic-Tac-Toe
-// A game names tic tac toe in Kotlin...😃
+// A game names tic tac toe in Kotlin.
 package tictactoe
 
 import kotlin.math.abs
